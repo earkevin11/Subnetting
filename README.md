@@ -29,3 +29,4 @@
 
 # What is a subnet mask?
 - Subnet mask is like an IP address, but for only internal usage within a network.
+- Routers use subnet masks to route to route data packets to the right place.
