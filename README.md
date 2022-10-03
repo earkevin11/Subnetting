@@ -29,4 +29,10 @@
 
 # What is a subnet mask?
 - Subnet mask is like an IP address, but for only internal usage within a network.
-- Routers use subnet masks to route to route data packets to the right place.
+- Routers use subnet masks to route data packets to the right place.
+- Ex: Bob answers Alice's letter, but he sends reply to Alice's job rather than her home. Alice's office is quite large with many differents. To ensure employees receive their correspondence quickly, the admin team at Alice's workplace sorts mail by department rather than individual employee. 
+- After receiving Bob's letter, they look up Alice's department and see she works in Customer Support.
+- They send the letter to the Customer Support department instead of to Alice, and the customer support department gives it to Alice
+- Alice is the IP address. Customer Support is like a subnet mask.
+- By matching Alice to her department, Bob's letter was quickly soirted into the right group of potential recipients. 
+- Without the step, office admins have to spend a long time looking for the exact location of Alice's desk.
