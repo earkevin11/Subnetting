@@ -49,3 +49,5 @@
 <img src="https://user-images.githubusercontent.com/104326475/193961246-5b8093e1-3e14-4cb2-ad55-fe955276b0c6.png" height="100%" width="100%" alt="UAR"/>
   
 <p/>
+
+- The more bits the network portion borrows from the host portion, the amount of networks that can be created doubles with each bit. However, the hosts per networks cuts in half with each bit.
