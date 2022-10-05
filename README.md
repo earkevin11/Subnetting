@@ -3,6 +3,8 @@
 # What is a Subnet?
 - Essentially, it is a network inside a network.
 
+# What is the default gateway?
+- It just means router.
 
 
 # Benefits of Subnetting
